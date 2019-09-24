@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="241cb811-dbff-4d1b-b3e7-33619a00ea5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Campaign/Campaign-nightmode.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Campaign/Campaign.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Campaign/Campaign.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ObjectCard/ObjectCardView-nightmode.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ObjectCard/ObjectCardView.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ObjectCard/ObjectCardView.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ObjectCard/RatingsWrap/RatingsWrap-nightmode.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ObjectCard/RatingsWrap/RatingsWrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ObjectCard/RatingsWrap/RatingsWrap.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Rewards.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Rewards.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Utils/WeightDisplay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/WeightTag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/defaultValues.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/listOfFields.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/adapters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/rateHelper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/wObjectHelper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/waivioApi/ApiClient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/waivioApi/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/waivioApi/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="241cb811-dbff-4d1b-b3e7-33619a00ea5b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -46,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/Rewards.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
                 <marker date="1569315314431" expanded="true" signature="1237:1467" ph="..." />
@@ -56,22 +27,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/WeightTag.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/ObjectCard/ObjectCardView.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
               <folding>
                 <element signature="e#185#260#0" expanded="true" />
               </folding>
@@ -79,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/ObjectCard/RatingsWrap/RatingsWrap.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
@@ -95,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/src/helpers/rateHelper.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -107,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/helpers/wObjectHelper.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -116,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/src/constants/listOfFields.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="94" column="32" lean-forward="true" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
+              <caret line="94" column="32" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -124,11 +83,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Campaign/Campaign.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+            <state relative-caret-position="420">
+              <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
               <folding>
                 <element signature="e#71#96#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -145,15 +118,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/constants/defaultValues.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -162,12 +126,12 @@
       <find>objectFields</find>
       <find>AVAT</find>
       <find>AVATAR</find>
-      <find>goToProducts</find>
       <find>getFieldWithMaxWeight</find>
       <find>WAIVIO_META_FIELD_NAME</find>
       <find>DEFAULTS</find>
-      <find>isMobile</find>
       <find>rate</find>
+      <find>isMobile</find>
+      <find>goToProducts</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -186,12 +150,13 @@
         <option value="$PROJECT_DIR$/src/waivioApi/config.json" />
         <option value="$PROJECT_DIR$/src/components/Rewards.js" />
         <option value="$PROJECT_DIR$/src/constants/listOfFields.js" />
-        <option value="$PROJECT_DIR$/src/components/Campaign/Campaign.js" />
         <option value="$PROJECT_DIR$/src/helpers/wObjectHelper.js" />
         <option value="$PROJECT_DIR$/src/components/ObjectCard/ObjectCardView.js" />
         <option value="$PROJECT_DIR$/src/helpers/adapters.js" />
         <option value="$PROJECT_DIR$/src/helpers/rateHelper.js" />
         <option value="$PROJECT_DIR$/src/components/ObjectCard/RatingsWrap/RatingsWrap.js" />
+        <option value="$PROJECT_DIR$/src/components/Campaign/Campaign.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -247,12 +212,6 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="ObjectCard" type="462c0819:PsiDirectoryNode" />
               <item name="RatingsWrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rewardframe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rewardframe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="constants" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rewardframe" type="b2602c69:ProjectViewProjectNode" />
@@ -327,31 +286,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569229379397</updated>
-      <workItem from="1569229380641" duration="15201000" />
+      <workItem from="1569229380641" duration="15752000" />
     </task>
+    <task id="LOCAL-00001" summary="Init rewards frame">
+      <created>1569318314770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569318314770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15201000" />
+    <option name="totallyTimeSpent" value="15752000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="27" width="1855" height="1020" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32922733" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32922733" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49945414" visible="true" weight="0.449162" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50054586" side_tool="true" visible="true" weight="0.449162" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.698324" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -359,6 +336,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init rewards frame" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init rewards frame" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -419,9 +400,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/ObjectCard/RatingsWrap/RatingsWrap-nightmode.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Rewards.less">
@@ -528,20 +506,10 @@
     <entry file="file://$PROJECT_DIR$/src/components/Rewards.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
             <marker date="1569315314431" expanded="true" signature="1237:1467" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Campaign/Campaign.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
-          <folding>
-            <element signature="e#71#96#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -559,7 +527,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/ObjectCard/ObjectCardView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
           <folding>
             <element signature="e#185#260#0" expanded="true" />
           </folding>
@@ -569,21 +537,21 @@
     <entry file="file://$PROJECT_DIR$/src/constants/listOfFields.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="94" column="32" lean-forward="true" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
+          <caret line="94" column="32" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/helpers/wObjectHelper.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/helpers/rateHelper.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -597,6 +565,26 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Campaign/Campaign.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+          <folding>
+            <element signature="e#71#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
